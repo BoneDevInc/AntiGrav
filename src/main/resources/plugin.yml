@@ -1,0 +1,4 @@
+name: MoonWars
+version: '${project.version}'
+main: com.bonesnetwork.moonwars.MoonWars
+api-version: '1.20'
